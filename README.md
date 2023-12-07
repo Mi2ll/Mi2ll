@@ -9,18 +9,9 @@
   </p>
 </div>
 
-
-<div align="center">
-  <br />
-
-  <a rel="me" href="https://www.linkedin.com/in/mael-ajrouche/">
-    <img class="badge" src='https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white' alt='Linkedin'>
-  </a>
-  <br />
-  <a href="https://discord.com/users/409412011424743444">
-    <img class="badge" src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt='Discord'>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-ajrouche/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mael.ajrouche@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Quelques stats
 
